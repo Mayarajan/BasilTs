@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "basilts.client", "basilts.client\basilts.client.esproj", "{3AE7E74D-EF2C-824E-9EF5-5CE883736BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasilTs.Server", "BasilTs.Server\BasilTs.Server.csproj", "{1520B6E6-37B1-40DB-B550-DB2FB91B98E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE7E74D-EF2C-824E-9EF5-5CE883736BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE7E74D-EF2C-824E-9EF5-5CE883736BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE7E74D-EF2C-824E-9EF5-5CE883736BB9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3AE7E74D-EF2C-824E-9EF5-5CE883736BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE7E74D-EF2C-824E-9EF5-5CE883736BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE7E74D-EF2C-824E-9EF5-5CE883736BB9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1520B6E6-37B1-40DB-B550-DB2FB91B98E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1520B6E6-37B1-40DB-B550-DB2FB91B98E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1520B6E6-37B1-40DB-B550-DB2FB91B98E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1520B6E6-37B1-40DB-B550-DB2FB91B98E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D04A211-749F-41B5-A6A5-9CB531209BD7}
+	EndGlobalSection
+EndGlobal
